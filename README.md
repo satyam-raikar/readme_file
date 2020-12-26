@@ -1,6 +1,6 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="48" style="margin-bottom: -4px"/>
 
-### Hi there, I'm Satyam - aka [V!RUS][website] 👋
+### Hi there, I'm Satyam - [Satyam Raikar][website] 👋
 
 
 ## I'm a Student, Developer, and Tech Enthusiast!
@@ -24,7 +24,7 @@
 
 
 
-[website]: https://xclusive.dev/
+[website]: https://satyam-raikar.dev/
 [twitter]: https://twitter.com/
 [youtube]: https://youtube.com/
 [instagram]: https://instagram.com/
