@@ -10,7 +10,7 @@
 - 🥅 2020 Goals: Learn and Contribute more to Open Source projects
 
 
-#### I am Good in ❤
+#### ❤Love to Code in
 
 <p>
 <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
