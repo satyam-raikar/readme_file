@@ -20,6 +20,9 @@
  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
  <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
  <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
+ <img alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
+ <img alt="Express" src="https://img.shields.io/badge/Express_JS-CB3837?style=for-the-badge&logo=express&logoColor=yellow" />
+ 
 
 <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 </p>
