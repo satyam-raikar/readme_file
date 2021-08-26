@@ -1,13 +1,13 @@
 <img src="https://emojis.slackmojis.com/emojis/images/1536351075/4594/blob-wave.gif?1536351075" width="48" style="margin-bottom: -4px"/>
 
-### Hi there, I'm Satyam - [Satyam Raikar][website] 👋
+### Hi there, I'm Satyam  👋
 
 
 ## I'm a Student, Developer, and Tech Enthusiast!
 
-- 🔭 I’m currently working on a [Personal Project][website]!
+
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Learn and Contribute more to Open Source projects
+- 🥅 2021 Goals: Learn and Contribute more to Open Source projects
 
 
 #### ❤Love to Code in
