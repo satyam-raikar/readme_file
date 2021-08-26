@@ -17,14 +17,14 @@
  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
   <br>
- </p>
-<td>
-  <img alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img alt="Express" src="https://img.shields.io/badge/Express_JS-CB3837?style=for-the-badge&logo=express&logoColor=white" />
-  <img alt="React" src="https://img.shields.io/badge/-React-2C8EBB?style=for-the-badge&logo=react&logoColor=white%22" />
-  <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
- </td>
 
+
+  <img alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" /><br>
+  <img alt="Express" src="https://img.shields.io/badge/Express_JS-CB3837?style=for-the-badge&logo=express&logoColor=white" /><br>
+  <img alt="React" src="https://img.shields.io/badge/-React-2C8EBB?style=for-the-badge&logo=react&logoColor=white%22" /><br>
+  <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+
+ </p>
 
 
 
