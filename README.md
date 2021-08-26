@@ -17,14 +17,11 @@
  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white" />
  <img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-505050?style=flat&logo=JavaScript&logoColor=F7DF1E" />
   <br>
- <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white" />
- <img alt="Redux" src="https://img.shields.io/badge/-Redux-764ABC?style=flat&logo=redux&logoColor=white" />
- <img alt="Node" src="https://img.shields.io/badge/-Node-339933?style=flat&logo=node.js&logoColor=white" />
  <img alt="Mongo" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" />
- <img alt="Express" src="https://img.shields.io/badge/Express_JS-CB3837?style=for-the-badge&logo=express&logoColor=yellow" />
- 
+ <img alt="Express" src="https://img.shields.io/badge/Express_JS-CB3837?style=for-the-badge&logo=express&logoColor=white" />
+ <img alt="React" src="https://img.shields.io/badge/-React-2C8EBB?style=for-the-badge&logo=react&logoColor=white%22" />
+ <img alt="Node" src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
 
-<img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white" />
 </p>
 
 
