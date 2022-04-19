@@ -7,7 +7,7 @@
 
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Learn and Contribute more to Open Source projects
+- 🥅 2022 Goals: Learn and Contribute more to Open Source projects
 
 
 #### ❤Love to Code in
